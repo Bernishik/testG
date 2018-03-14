@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 kejer
 +1
+=======
+>>>>>>> parent of 272efab... new kek
 =======
 >>>>>>> parent of 272efab... new kek
